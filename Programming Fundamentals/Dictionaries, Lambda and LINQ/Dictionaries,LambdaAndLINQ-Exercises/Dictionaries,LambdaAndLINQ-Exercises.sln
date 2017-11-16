@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Phonebook", "01.Phonebook\01.Phonebook.csproj", "{B713E75A-834B-44F5-8DF9-3546BF57FCF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PhonebookUpgrade", "02.PhonebookUpgrade\02.PhonebookUpgrade.csproj", "{50839028-54F9-47CA-9BD8-941BB4289AC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.AMinerTask", "03.AMinerTask\03.AMinerTask.csproj", "{2764010D-21BD-4586-83EF-94E7F6641439}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.HandsOfCards", "05.HandsOfCards\05.HandsOfCards.csproj", "{701DA652-EED1-4069-9FB0-B1C6F8B2158F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FixEmails", "04.FixEmails\04.FixEmails.csproj", "{D53B84A2-9C53-4B50-97E0-036DFEE4DD0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PopulationCounter", "07.PopulationCounter\07.PopulationCounter.csproj", "{FC9EC943-AD63-443A-9026-309FE8A320CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.DragonArmy", "11.DragonArmy\11.DragonArmy.csproj", "{13416FD6-E94B-47BB-BA71-CC4A23B15DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B713E75A-834B-44F5-8DF9-3546BF57FCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B713E75A-834B-44F5-8DF9-3546BF57FCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B713E75A-834B-44F5-8DF9-3546BF57FCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B713E75A-834B-44F5-8DF9-3546BF57FCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50839028-54F9-47CA-9BD8-941BB4289AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50839028-54F9-47CA-9BD8-941BB4289AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50839028-54F9-47CA-9BD8-941BB4289AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50839028-54F9-47CA-9BD8-941BB4289AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2764010D-21BD-4586-83EF-94E7F6641439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2764010D-21BD-4586-83EF-94E7F6641439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2764010D-21BD-4586-83EF-94E7F6641439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2764010D-21BD-4586-83EF-94E7F6641439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701DA652-EED1-4069-9FB0-B1C6F8B2158F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701DA652-EED1-4069-9FB0-B1C6F8B2158F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701DA652-EED1-4069-9FB0-B1C6F8B2158F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701DA652-EED1-4069-9FB0-B1C6F8B2158F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53B84A2-9C53-4B50-97E0-036DFEE4DD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53B84A2-9C53-4B50-97E0-036DFEE4DD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53B84A2-9C53-4B50-97E0-036DFEE4DD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53B84A2-9C53-4B50-97E0-036DFEE4DD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9EC943-AD63-443A-9026-309FE8A320CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9EC943-AD63-443A-9026-309FE8A320CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9EC943-AD63-443A-9026-309FE8A320CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9EC943-AD63-443A-9026-309FE8A320CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13416FD6-E94B-47BB-BA71-CC4A23B15DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13416FD6-E94B-47BB-BA71-CC4A23B15DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13416FD6-E94B-47BB-BA71-CC4A23B15DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13416FD6-E94B-47BB-BA71-CC4A23B15DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B23B03-D573-4394-877F-1B9A4F997E73}
+	EndGlobalSection
+EndGlobal
