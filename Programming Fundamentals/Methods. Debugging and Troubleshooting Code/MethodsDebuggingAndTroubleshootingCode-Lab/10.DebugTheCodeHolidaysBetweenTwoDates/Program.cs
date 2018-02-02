@@ -17,7 +17,7 @@ namespace _10.DebugTheCodeHolidaysBetweenTwoDates
                 if (date.DayOfWeek == DayOfWeek.Saturday ||
                     date.DayOfWeek == DayOfWeek.Sunday) holidaysCount++;
             Console.WriteLine(holidaysCount);
-
+            
         }
     }
 }
